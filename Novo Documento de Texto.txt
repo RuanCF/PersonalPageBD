@@ -1,0 +1,6 @@
+pdo php mysql connection
+
+https://www.devmedia.com.br/criando-um-sistema-de-cadastro-e-login-com-php-e-mysql/37213
+
+https://www.php.net/manual/pt_BR/function.mysql-connect.php
+
